@@ -1,0 +1,19 @@
+PODS:
+  - LYANRTracker (0.1.0)
+  - PLCrashReporter (1.2.0)
+
+DEPENDENCIES:
+  - LYANRTracker (from `../`)
+  - PLCrashReporter (~> 1.2.0)
+
+EXTERNAL SOURCES:
+  LYANRTracker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LYANRTracker: e2fe467e629506ea4167662724369cdd7d80bb06
+  PLCrashReporter: 16927d86a093d0b9cf110545dacb77cb0ed0f243
+
+PODFILE CHECKSUM: ce690765d3063fce3702b20916dafa3e7458ef25
+
+COCOAPODS: 1.2.0

@@ -2,13 +2,5 @@ use_frameworks!
 
 target 'LYANRTracker_Example' do
   pod 'LYANRTracker', :path => '../'
-
-  target 'LYANRTracker_Tests' do
-    inherit! :search_paths
-
-    pod 'Specta'
-  pod 'Expecta'
-  pod 'FBSnapshotTestCase'
-  pod 'Expecta+Snapshots'
-  end
+  pod 'PLCrashReporter', '~> 1.2.0'
 end

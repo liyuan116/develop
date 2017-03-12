@@ -1,0 +1,6 @@
+framework module LYANRTracker {
+  umbrella header "LYANRTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LYANRTracker",
+  "version": "0.1.0",
+  "summary": "A short description of LYANRTracker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liyuan/LYANRTracker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liyuan": "1158084418@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/liyuan/LYANRTracker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYANRTracker/Classes/**/*"
+}
